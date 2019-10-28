@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "聊聊架空历史"
-categories: 假想版
+categories: 假想战记
 tags:  架空 历史 假想
 author: 船上白帆
 ---
